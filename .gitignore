@@ -25,3 +25,5 @@ kaggle.json
 *.names
 Kaggle_Projects/expanded
 key.py
+expanded
+*.names
